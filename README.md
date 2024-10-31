@@ -3,12 +3,12 @@
 This project predicts credit card approval outcomes based on various applicant features using machine learning. It involves data analysis, model training, model interpretation, and a Flask API to serve predictions from a logistic regression model.
 
 ## Table of Contents
-- [Project Overview]
-- [Data Analysis and Model Training]
-- [Interpretation of Results]
-- [Flask API for Predictions]
-- [Testing the API]
-- [Example Input and Output]
+- Project Overview
+- Data Analysis and Model Training
+- Interpretation of Results
+- Flask API for Predictions
+- Testing the API
+- Example Input and Output
 
 ---
 
