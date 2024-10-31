@@ -65,6 +65,11 @@ python app.py
 
 By default, the Flask server will run on `http://127.0.0.1:5000/`.
 
+- Endpoint
+```
+http://127.0.0.1:5000/predict
+```
+
 ### Input Format
 
 The JSON input should be like this
